@@ -11,7 +11,7 @@ body {
 /* Header styles */
 .header {
     text-align: center;
-    background-color: #007bff;
+    background-color: #007bff; /* Updated header background color */
     color: #fff;
     padding: 20px;
 }
@@ -36,21 +36,21 @@ h1 {
 h2 {
     font-size: 24px;
     margin-top: 20px;
-    color: #007bff;
+    color: #333;
 }
 
 /* Paragraph styles */
 p {
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
+    color: #555;
 }
 
 /* List styles */
 ul {
     list-style-type: disc;
     padding-left: 20px;
-    color: #333;
+    color: #555;
 }
 
 /* Link styles */
@@ -61,4 +61,18 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Updated header styles */
+.header {
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
 }
