@@ -41,7 +41,7 @@ body {
 .header {
     width: auto;
     /* margin-bottom: 130px; */
-    background-image: url('port.jpg');
+    /* background-image: url('port.jpg'); */
     background-size: cover;
     height: 200px;
 
